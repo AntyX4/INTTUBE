@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/YT-Downloader">
+        <file>applicationicon.ico</file>
+        <file>logo.png</file>
+        <file>logoqt.png</file>
+        <file>Youtube-512.png</file>
+    </qresource>
+</RCC>
